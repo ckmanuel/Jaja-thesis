@@ -72,12 +72,13 @@ or rotate it first. Rewriting history is a last resort and doesn't reach
 copies already made.
 
 ## Current focus
-_None yet._
+BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2023–2025)”. Proposal v06 is in `thesis/`. Program guide (Thesis Companion) and Verb Tense Matrix also stored there.
 
 ## Open threads
-_None yet._
+- Confirm exact next step with user (e.g. polish proposal, start corpus collection, pilot coding, prepare for title/proposal defense).
+- Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-_None yet._
+- 2026-10-22: Created `thesis/` folder on main; force-added proposal DOCX, Thesis Companion PDF, Verb Tense Matrix PDF.
