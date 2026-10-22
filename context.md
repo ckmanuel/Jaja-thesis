@@ -81,4 +81,5 @@ BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-23: Added `thesis/README.md` with versioning policy adapted from thesis-memory (small edits overwrite current draft; new version only for major changes or on request).
 - 2026-10-22: Created `thesis/` folder on main; force-added proposal DOCX, Thesis Companion PDF, Verb Tense Matrix PDF.
