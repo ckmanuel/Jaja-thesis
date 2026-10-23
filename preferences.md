@@ -128,3 +128,24 @@ Guardrails against weak habits. Use judgment, not mechanical compliance.
   - Philippine English / clear undergraduate academic register; no purple prose.
   - Citations only for claims the paper supports; no filler citations.
 - Prefer this cadence over generic “In recent years…” openings.
+
+## Thesis prose priority order (binding)
+
+When drafting or revising any thesis text (proposal or final), apply rules in this order. Higher wins when rules conflict.
+
+1. **Verb Tense Matrix** (`thesis/Thesis_Verb_Tense_Matrix.pdf`)
+   - Proposal BOTS and literature: present for current facts and situations. Present perfect for trends that continue to now.
+   - Statement of the problem / objectives: present (*seeks*, *aims*, *examines*).
+   - Method (proposal): future or present as the matrix specifies for planned work.
+   - Final defense text later: follow the FINAL DEFENSE column of the same matrix.
+
+2. **Em-dash and semicolon avoidance**
+   - Default to periods and fresh sentences.
+   - Do not use em dashes (—) or semicolons (;) in thesis prose.
+   - If a long sentence needs a break, split it. Prefer a full stop or a short subordinate clause.
+
+3. **User preferences** (this file)
+   - Philippine English, CEFR B1–B2, hedge-thesis BOTS cadence, accuracy over polish.
+   - Apply only where they do not conflict with (1) or (2).
+
+This order is binding for all agents working on `thesis/Thesis_Proposal_Instagram_MH_v07.docx` and later drafts.

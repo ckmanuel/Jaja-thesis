@@ -92,6 +92,10 @@ and so does any fork or clone made earlier. If the text was a secret, revoke
 or rotate it first. Rewriting history is a last resort and doesn't reach
 copies already made.
 
+## Thesis prose priority order
+
+Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
+
 ## Current focus
 BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2023–2025)”. Proposal v07 (SOP 2 revised) is the current working draft in `thesis/Thesis_Proposal_Instagram_MH_v07.docx`. All future drafts stay in DOCX only. Program guide (Thesis Companion) and Verb Tense Matrix also stored there.
 

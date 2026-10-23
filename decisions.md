@@ -177,3 +177,8 @@ Entry template:
 - **Decision:** After any meaningful change (proposal DOCX, reference PDFs under `thesis/references/`, memory files, transcripts), the agent must `git add` (force-add binaries), commit, and **push to origin/main** in the same turn. Local-only files do not count as delivered.
 - **Why:** Session sandboxes are ephemeral. The previous agent left reference PDFs and DOCX edits on disk only; the user correctly reported they were "not committed in repo." Gitignore of `*.pdf`/`*.docx` makes this easy to miss without `git add -f` + push.
 - **Rejected:** "I'll commit at session end" or "files are in the working tree so they're fine."
+
+## 2026-10-23: Thesis prose priority order
+- **Decision:** When writing or revising thesis text, apply rules in this fixed order: (1) Verb Tense Matrix, (2) no em-dashes or semicolons, (3) user preferences (Philippine English, B1–B2, hedge-thesis cadence). Higher rank wins on conflict.
+- **Why:** User required consistency across agents and sessions. Tense matrix is institutional. Punctuation ban and voice prefs are author constraints. Order prevents drift.
+- **Rejected:** Treating all three as equal, or letting voice prefs override tense accuracy.
