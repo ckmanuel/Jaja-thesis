@@ -51,3 +51,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Noted the hedge thesis (thesis-memory) as the primary BOTS style model in knowledge.md and preferences. Expanded the Comment Response Patterns section so each study receives its own analytical treatment (method, finding, implication) rather than a passing mention. Followed the observed cadence from the hedge thesis. Pushed to origin/main.
+
+#### Exchange 4 — trace c4e1c899-c426-4a7c-b0ab-363811a4edf8
+
+**User:**
+
+> heyyy what happened to the format?
+
+**Assistant:**
+
+> The three new paragraphs I inserted lost their font and spacing when they were added programmatically. Restored Georgia 11 pt and double spacing to match the rest of the body text, and removed the stray empty paragraph. Format should look consistent again.
