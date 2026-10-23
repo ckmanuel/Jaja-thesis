@@ -78,3 +78,11 @@ Do not insert blank spacer paragraphs around themed (italic) sections; spacing c
 ## Empty paragraphs
 
 After the title page, empty paragraphs must have 0 space before/after and must not be used to manufacture gaps. Prefer paragraph space_before / space_after on real headings.
+
+## Pagination
+
+- Each major header (INTRODUCTION, METHODOLOGY, REFERENCES, APPENDICES) starts on a **new page**.
+- **Page numbers are hidden on major-header pages** (first page of each body section): empty first-page header.
+- Following pages of each section show the page number (Georgia, header, right-aligned).
+- Title page has no page number.
+- Page numbering is continuous across sections (no restart).
