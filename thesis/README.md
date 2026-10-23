@@ -10,8 +10,8 @@ Changes from v06:
 - All other sections unchanged from v06.
 
 Supporting files:
-- `references.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
-- `references/` — folder for full-text PDFs (name as `Author (Year) - Title.pdf`)
+- `references/references.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
+- `references/` — folder for full-text PDFs (name as `Author (Year) - Title.pdf`) and the citation list
 - `001_ThesisCompanion.pdf` — BAELS Thesis Companion guide
 - `Thesis_Verb_Tense_Matrix.pdf` — tense guidance for proposal → final paper
 

@@ -2,7 +2,7 @@
 
 Working list for **v06 / v07** proposal references. Prefer **Open PDF** when present. Links can move; DOI is the stable identifier.
 
-Legend: **Open PDF** = free full text found · **Publisher** = may need library access · **Landing** = abstract / request page · **Local file** = PDF already in `thesis/references/`
+Legend: **Open PDF** = free full text found · **Publisher** = may need library access · **Landing** = abstract / request page · **Local file** = PDF already in this folder
 
 ---
 
