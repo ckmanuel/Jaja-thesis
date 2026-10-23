@@ -107,7 +107,7 @@ BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-10-23: Expanded and revised “Comment Response Patterns in Digital Support Spaces” in v07 DOCX; added Kim et al. (2023), Myrick et al. (2015), Wang (2025); independent verification of Chang (2009) and Naslund et al. (2016).
+- 2026-10-23: Further expanded “Comment Response Patterns” so each study (Chang 2009, Kim et al. 2023, Myrick et al. 2015, Wang 2025, Naslund et al. 2016) is examined for method, finding, and implication, following the hedge-thesis BOTS cadence from thesis-memory.
 - 2026-10-23: Uploaded and force-added four new reference PDFs (Kim, Myrick, Yip, Wang) plus updated references README.
 - 2026-10-23: Renamed citation list to `thesis/references/README.md` so it displays when viewing the folder on GitHub.
 - 2026-10-23: Restored v07 content as DOCX; SOP 2 revised; policy confirmed — all future drafts DOCX only.
