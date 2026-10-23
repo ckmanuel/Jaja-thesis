@@ -61,3 +61,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > The three new paragraphs I inserted lost their font and spacing when they were added programmatically. Restored Georgia 11 pt and double spacing to match the rest of the body text, and removed the stray empty paragraph. Format should look consistent again.
+
+#### Exchange 5 — trace cdc70179-befd-44a0-b700-836b4c18d63c
+
+**User:**
+
+> fix spacing. for new paragraphs added here Comment Response Patterns in Digital Support Spaces
+
+**Assistant:**
+
+> The three new paragraphs were missing the first-line indent (0.5 inch) that the rest of the body text uses. Applied it. Double spacing was already correct. Format should now match the surrounding paragraphs.
