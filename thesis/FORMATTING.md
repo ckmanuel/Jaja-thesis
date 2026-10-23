@@ -21,7 +21,7 @@ Keep bold only on:
 
 Everything else is regular weight.
 
-## Major headers (exactly four)
+## Major headers
 
 - INTRODUCTION  
 - METHODOLOGY  
