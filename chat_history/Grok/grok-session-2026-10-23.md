@@ -97,3 +97,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Added new subsection "Hope as a Distinct Construct in Digital Mental Health Discourse" between Positivity/Engagement and Comment Response Patterns. Examined McCosker & Gerrard (2021), Lindgren & Johansson (2023), and Beelen & Karsay (2024) in depth. Matched Georgia 11 pt, double spacing, 0.5" indent, justified. Added three entries to the References list. PDFs already in thesis/references/.
+
+#### Exchange 9 — trace 745a5fe7-3f3b-44db-9920-8b567e850276
+
+**User:**
+
+> now let's proceed with the gap conclusion. expound and revise.
+
+**Assistant:**
+
+> Expanded Research Gap and Rationale into four examined paragraphs: (1) what the literature establishes, (2) three linked gaps, (3) how prior discourse work differs and how this study addresses the gap, (4) 2023–2025 data-window rationale. Format matched. Pushed.
