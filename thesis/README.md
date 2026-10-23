@@ -8,7 +8,7 @@
 
 Supporting files:
 - `references.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
-- `references/` — folder for full-text PDFs (name as `Author (Year) - Title.pdf`)
+- `reference/` — folder for full-text PDFs (name as `Author (Year) - Title.pdf`)
 - `001_ThesisCompanion.pdf` — BAELS Thesis Companion guide
 - `Thesis_Verb_Tense_Matrix.pdf` — tense guidance for proposal → final paper
 
