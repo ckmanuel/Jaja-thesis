@@ -2,12 +2,15 @@
 
 ## Current working draft
 
-**Thesis_Proposal_Instagram_MH_v07.docx** — full proposal (title through Appendices). Current working version.
+**Thesis_Proposal_Instagram_MH_v08.docx** — full proposal (title through Appendices). Current working version.
 
-Changes from v06:
-- SOP 2 revised (now focuses on linguistic features of comment responses rather than co-occurrence patterns).
-- SOP 1 and SOP 3 kept exactly as in v06.
-- All other sections unchanged from v06.
+Changes from v07:
+- Operational definitions of Hope Construction and Empowerment Language rewritten in Definition of Terms (discursive orientations with core tests).
+- Research Framework: added Table 1 (side-by-side contrast of the two orientations) and derivative-questions decision procedure for caption coding.
+- Function-Driven Coding definition updated to reference the derivative questions.
+- Appendix A Decision Rules updated to point to the derivative-questions procedure; full Decision procedure text added below Table A1.
+- IPO Process Phase 1 wording updated to match the new coding procedure.
+- Markers remain illustrative signals, not an exhaustive inventory.
 
 Supporting files:
 - `references/README.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
