@@ -97,16 +97,17 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2023–2025)”. Proposal v09 is the current working draft in `thesis/Thesis_Proposal_Instagram_MH_v09.docx`. Caption coding uses derivative questions (v08). Comment sampling is eligibility filter + maximum variation on response type (two eligible top-level comments per post). Pages capped at three posts each. All future drafts stay in DOCX only.
+BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Proposal v10 is the current working draft in `thesis/Thesis_Proposal_Instagram_MH_v10.docx`. Sampling locked: ~5–6 English-language pages, 5–8 captions each (max 30), Sep 2024–Dec 2025 with preference for 2025, comment eligibility + maximum variation. Caption coding uses derivative questions. All drafts in DOCX only.
 
 ## Open threads
-- Review v09 sampling and Framework/Definition changes.
+- Review v10 year window and page/caption ranges.
 - Confirm next step (Method polish, Research Gap, corpus pilot, or other).
 - Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-23: Created v10. Year window Sep 2024–Dec 2025 (2025 preferred). Pages ~5–6, captions 5–8 each. Title, Scope, Limitations, Process, Corpus, IPO, and definitions updated.
 - 2026-10-23: Created v09. Comment sampling: eligibility + maximum variation (Supportive Lexicon / Personal Narrative). Page ceiling of three posts. Scope, Limitations, Process, Corpus, IPO, and Definition of Terms updated. Algorithmically-surfaced selection language removed from method.
 - 2026-10-23: Created v08. Operational definitions of Hope and Empowerment rewritten. Table 1 contrast added in Research Framework. Derivative-questions decision procedure adopted for caption coding. Appendix A and Function-Driven Coding definition updated.
 - 2026-10-23: Further expanded “Comment Response Patterns” so each study (Chang 2009, Kim et al. 2023, Myrick et al. 2015, Wang 2025, Naslund et al. 2016) is examined for method, finding, and implication, following the hedge-thesis BOTS cadence from thesis-memory.

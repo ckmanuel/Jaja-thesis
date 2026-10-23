@@ -2,14 +2,14 @@
 
 ## Current working draft
 
-**Thesis_Proposal_Instagram_MH_v09.docx** — full proposal (title through Appendices). Current working version.
+**Thesis_Proposal_Instagram_MH_v10.docx** — full proposal (title through Appendices). Current working version.
 
-Changes from v08:
-- Comment sampling redesigned: eligibility filter + maximum variation on response type (one Supportive Lexicon + one Personal Narrative when both present among eligible top-level comments). Nested replies excluded.
-- Page stratification fixed: maximum three eligible posts per advocacy page; target spread across at least ten pages for a 30-post corpus.
-- Account, post, and comment criteria aligned with the final sampling procedure.
-- Scope, Limitations, Research Process, Corpus, IPO, and Definition of Terms updated to match. No “algorithmically surfaced” selection language remains in the method.
-- Caption coding step aligned with the derivative-questions procedure from v08.
+Changes from v09:
+- Year window: September 2024–December 2025, with preference for 2025. Late 2024 (Sep–Dec) only when a page lacks enough eligible 2025 captions. No cross-year comparison.
+- Pages: approximately five to six English-language public MH advocacy accounts.
+- Per page: five to eight eligible captions (corpus ceiling still 30).
+- Title year range updated to 2024–2025.
+- Scope, Limitations, Research Process, Corpus, IPO, Definition of Terms (Contemporary Corpus), and gap paragraph aligned.
 
 Supporting files:
 - `references/README.md` — working list of full citations, DOIs, and download links
@@ -20,9 +20,8 @@ Supporting files:
 ## Versioning policy
 
 * Small stylistic or section edits overwrite the current working DOCX draft.
-* New version number (v08, v09, …) only for major revisions or when requested.
+* New version number only for major revisions or when requested.
 * **All proposal drafts stay in DOCX format only.** No markdown drafts.
-* Do not modify the Thesis Companion, Verb Tense Matrix, or locked appendix/coding files unless the author explicitly asks.
 
 ## Notes
 
