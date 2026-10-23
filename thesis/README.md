@@ -2,9 +2,7 @@
 
 ## Current working draft
 
-**Thesis_Proposal_Instagram_MH_v06.docx** — full proposal (title through Appendices).
-
-**Thesis_Proposal_Instagram_MH_v07_draft.md** — working markdown draft of the Statement of the Problem revision only (SOP 2 focused on comment responses). All other sections still follow v06.
+**Thesis_Proposal_Instagram_MH_v06.docx** — full proposal (title through Appendices). Current working version.
 
 Supporting files:
 - `references.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
@@ -14,8 +12,8 @@ Supporting files:
 
 ## Versioning policy
 
-* Small stylistic or section edits overwrite the current working draft (currently the v07 markdown for SOP work, or a new body DOCX when one is created).
-* New version number (v08, v09, … or Draft_0xx style) only for major revisions or when requested.
+* Small stylistic or section edits overwrite the current working DOCX draft.
+* New version number (v07, v08, …) only for major revisions or when requested. All drafts stay in DOCX format.
 * Do not modify the Thesis Companion, Verb Tense Matrix, or locked appendix/coding files unless the author explicitly asks.
 
 ## Notes
