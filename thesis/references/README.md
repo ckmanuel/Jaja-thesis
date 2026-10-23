@@ -118,3 +118,34 @@ DOI: https://doi.org/10.57239/PJLSS-2024-22.2.00666
 - Folder for full-text PDFs: `thesis/references/`
 - **Removed 2026-10-23:** Dimova (2024) — repository link dead (404/403), no DOI, no alternate open copy. Replaced in proposal text by Koteyko & Atanasova (2018).
 - **Year correction:** Naslund et al. is **2016**, not 2020.
+
+---
+
+### Kim, M., Saha, K., De Choudhury, M., & Choi, D. (2023)
+Supporters first: Understanding online social support on mental health from a supporter perspective. *Proceedings of the ACM on Human-Computer Interaction, 7*(CSCW1), Article 92.  
+DOI: https://doi.org/10.1145/3579525  
+**Open PDF (ACM):** https://dl.acm.org/doi/pdf/10.1145/3579525  
+**Local file:** `Kim et al. (2023) - Supporters First Understanding Online Social Support from Supporter Perspective.pdf`
+
+---
+
+### Myrick, J. G., Holton, A. E., Himelboim, I., & Love, B. (2015)
+#Stupidcancer: Exploring a typology of social support and the role of emotional expression in a social media community. *Health Communication, 31*(5), 596–605.  
+DOI: https://doi.org/10.1080/10410236.2014.981664  
+**Local file:** `Myrick et al. (2015) - Stupidcancer Exploring Typology of Social Support on Twitter.pdf`
+
+---
+
+### Yip, J. W. C. (2024)
+*Discourse of online social support: A study of online self-help groups for anxiety and depression*. Springer.  
+DOI: https://doi.org/10.1007/978-981-99-9569-1  
+**Local file:** `Yip (2024) - Discourse of Online Social Support.pdf`
+
+---
+
+### Wang, X. (2025)
+Representing depression in social media: Content analysis of mental support posts on Weibo in China. In *Proceedings of the 2025 4th International Conference on Educational Science and Social Culture (ESSC 2025)*. Atlantis Press.  
+DOI / Landing: https://www.atlantis-press.com/proceedings/essc-25/126022410  
+**Open PDF:** https://www.atlantis-press.com/article/126022410.pdf  
+**Local file:** `Wang (2025) - Representing Depression in Social Media Weibo Content Analysis.pdf`
+
