@@ -7,9 +7,9 @@ Legend: **Open PDF** = free full text found · **Publisher** = may need library 
 ---
 
 ### Bartesaghi, M., & Castor, T. (2008)
-Social construction in communication: Re-constituting the conversation. *Communication Yearbook, 32*, 3–39.  
-DOI: https://doi.org/10.1080/23808985.2008.11679070  
-**Publisher:** Taylor & Francis / Communication Yearbook
+Social construction in communication: Re-constituting the conversation. *Annals of the International Communication Association, 32*(1), 1–39.  
+DOI: https://doi.org/10.1080/23808985.2008.11679074  
+**Local file:** `Bartesaghi & Castor (2008) - Social Construction in Communication.pdf`
 
 ---
 
@@ -37,7 +37,8 @@ DOI: https://doi.org/10.1016/j.dcm.2018.04.007
 
 ### Macgilchrist, F. (2007)
 Positive discourse analysis: Contesting dominant discourses by reframing the issues. *Critical Approaches to Discourse Analysis Across Disciplines, 1*(1), 74–94.  
-**Landing / Open PDF (CADAAD):** search “Macgilchrist Positive discourse analysis” on the journal site or ResearchGate
+**Open PDF:** https://www.lancaster.ac.uk/fass/journals/cadaad/wp-content/uploads/2015/01/Volume-1_Macgilchrist.pdf  
+**Local file:** `Macgilchrist (2007) - Positive Discourse Analysis Contesting Dominant Discourses.pdf`
 
 ---
 
@@ -70,9 +71,10 @@ DOI: https://doi.org/10.3389/fcomm.2022.824119
 ---
 
 ### Yao, M. Z., & Zhong, Z. (2014)
-*(Cited in text but missing full bibliographic details from the proposal References list.)*  
-Likely related to toxic positivity / commodification of recovery language on social media (paired with Naslund et al. in the Background).  
-**Action needed:** locate full citation, add to proposal References, and place PDF in `thesis/references/` when available.
+Loneliness, social contacts and Internet addiction: A cross-lagged panel study. *Computers in Human Behavior, 30*, 164–170.  
+DOI: https://doi.org/10.1016/j.chb.2013.08.007  
+**Local file:** `Yao & Zhong (2014) - Loneliness Social Contacts and Internet Addiction.pdf`  
+**Note:** Does **not** address toxic positivity or recovery commodification; correct or remove from PDA caution paragraph.
 
 ---
 
