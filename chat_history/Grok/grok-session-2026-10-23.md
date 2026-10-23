@@ -117,3 +117,9 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Softened to: "Years are pooled for corpus diversity rather than compared across time."
+
+#### Exchange 11 — implicit pooling phrasing
+
+**User:** keep it implicitly implied than explicit.
+
+**Assistant:** Removed the comparison clause. Now only: "Years are pooled for corpus diversity."
