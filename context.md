@@ -81,7 +81,7 @@ BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-10-23: Moved `references.md` into `thesis/references/references.md` so the citation list lives with the PDF folder.
+- 2026-10-23: Renamed citation list to `thesis/references/README.md` so it displays when viewing the folder on GitHub.
 - 2026-10-23: Restored v07 content as DOCX (`Thesis_Proposal_Instagram_MH_v07.docx`); SOP 2 revised, SOP 1 & 3 unchanged; policy confirmed — all future drafts DOCX only, no MD.
 - 2026-10-23: Removed markdown draft; all proposal drafts stay in DOCX format only.
 - 2026-10-23: Added `thesis/README.md` with versioning policy adapted from thesis-memory (small edits overwrite current draft; new version only for major changes or on request).
