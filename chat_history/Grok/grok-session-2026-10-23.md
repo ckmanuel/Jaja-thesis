@@ -28,3 +28,13 @@ token" rule overrides "verbatim").
 
 > Files uploaded and pushed. Independent verification of current section citations complete. Standing by for revision of Comment Response Patterns in Digital Support Spaces as instructed.
 
+
+#### Exchange 2 — trace ab149ba7-2ed2-48e3-af81-843a9ecdce4e
+
+**User:**
+
+> expound and revise.
+
+**Assistant:**
+
+> Expanded and revised the section “Comment Response Patterns in Digital Support Spaces” in Thesis_Proposal_Instagram_MH_v07.docx. Added verified findings from Kim et al. (2023), Myrick et al. (2015) and Wang (2025) while keeping the Chang (2009) adaptation and the existing coding scheme intact. New references also added to the DOCX reference list and to thesis/references/. Pushed to origin/main.
