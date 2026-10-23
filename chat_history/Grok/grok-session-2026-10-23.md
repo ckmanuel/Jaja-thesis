@@ -107,3 +107,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Expanded Research Gap and Rationale into four examined paragraphs: (1) what the literature establishes, (2) three linked gaps, (3) how prior discourse work differs and how this study addresses the gap, (4) 2023–2025 data-window rationale. Format matched. Pushed.
+
+#### Exchange 10 — trace 5ade1814-d794-4933-949e-407f55d43e1a
+
+**User:**
+
+> change. keep this subtle. no cross-year trend comparison is performed
+
+**Assistant:**
+
+> Softened to: "Years are pooled for corpus diversity rather than compared across time."
