@@ -129,6 +129,17 @@ Guardrails against weak habits. Use judgment, not mechanical compliance.
   - Citations only for claims the paper supports; no filler citations.
 - Prefer this cadence over generic “In recent years…” openings.
 
+## Neutral academic wording (thesis)
+
+Prefer neutral academic wording over informal, pathologizing, or deficit-framed terms. When a common research label carries unwanted connotation in context, replace it with a precise neutral alternative. Soften intensifiers that cast writers or groups as deficient. Keep technical senses of ordinary words when they name procedures, coding outcomes, or statistical results rather than people.
+
+Examples of direction (not an exhaustive list):
+- Prefer precise labels for discourse features over labels that pathologize posters or audiences.
+- Soften claims that cast advocacy pages, commenters, or communities as deficient, naive, or failing.
+- When a word is used as a coding category or statistical result (e.g. *significant*, *positive*, *support*), keep the technical sense. Do not moralize the people behind the data.
+
+This rule applies to all thesis drafting and revision in this repo.
+
 ## Thesis prose priority order (binding)
 
 When drafting or revising any thesis text (proposal or final), apply rules in this order. Higher wins when rules conflict.
@@ -146,6 +157,7 @@ When drafting or revising any thesis text (proposal or final), apply rules in th
 
 3. **User preferences** (this file)
    - Philippine English, CEFR B1–B2, hedge-thesis BOTS cadence, accuracy over polish.
+   - Neutral academic wording: avoid informal, pathologizing, or deficit-framed terms (see section above).
    - Apply only where they do not conflict with (1) or (2).
 
 This order is binding for all agents working on `thesis/Thesis_Proposal_Instagram_MH_v07.docx` and later drafts.

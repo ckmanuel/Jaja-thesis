@@ -135,3 +135,9 @@ token" rule overrides "verbatim").
 **User:** fold it.
 
 **Assistant:** Inserted empowerment paragraph at end of Hope subsection (before Comment Response Patterns). Grounded in Martin and Macgilchrist only. Format matched. Pushed.
+
+#### Exchange 14 — neutral academic wording preference
+
+**User:** add neutral academic wording preference (pathologizing/deficit-framed terms).
+
+**Assistant:** Added "## Neutral academic wording (thesis)" section to preferences.md and linked it under Thesis prose priority order item 3.
