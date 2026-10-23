@@ -2,14 +2,12 @@
 
 ## Current working draft
 
-**Thesis_Proposal_Instagram_MH_v10.docx** — full proposal (title through Appendices). Current working version.
+**Thesis_Proposal_Instagram_MH_v11.docx** — full proposal (title through Appendices). Current working version.
 
-Changes from v09:
-- Year window: September 2024–December 2025, with preference for 2025. Late 2024 (Sep–Dec) only when a page lacks enough eligible 2025 captions. No cross-year comparison.
-- Pages: approximately five to six English-language public MH advocacy accounts.
-- Per page: five to eight eligible captions (corpus ceiling still 30).
-- Title year range updated to 2024–2025.
-- Scope, Limitations, Research Process, Corpus, IPO, Definition of Terms (Contemporary Corpus), and gap paragraph aligned.
+Changes from v10:
+- Caption coding procedure revised to two-stage Identify and Sort (replaces four derivative questions).
+- Stage 1: mark H and E present (T) or absent (F). Stage 2: T|F → HOPE, F|T → EMPOWERMENT, T|T → dominance by main-clause/final position + speech act, F|F or unclear T|T → blended.
+- Research Framework, IPO Phase 1, Function-Driven Coding definition, Research Process step 3, and Appendix A decision procedure/rules updated.
 
 Supporting files:
 - `references/README.md` — working list of full citations, DOIs, and download links
@@ -21,10 +19,9 @@ Supporting files:
 
 * Small stylistic or section edits overwrite the current working DOCX draft.
 * New version number only for major revisions or when requested.
-* **All proposal drafts stay in DOCX format only.** No markdown drafts.
+* **All proposal drafts stay in DOCX format only.**
 
 ## Notes
 
 - Keep all thesis-related files under `thesis/`.
 - Force-add binary files (PDF/DOCX) when needed (`git add -f`).
-- Update this README when the current working draft changes.
