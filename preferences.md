@@ -49,6 +49,17 @@ intact.
   or scene. The content standards apply to narration and authorial choices,
   not character voice.
 
+## Neutral wording
+
+Prefer neutral wording over informal, pathologizing, or deficit-framed terms. When a common label carries unwanted connotation in context, replace it with a precise neutral alternative. Soften intensifiers that cast people or groups as deficient. Keep technical senses of ordinary words when they name procedures, outcomes, or results rather than people.
+
+Examples of direction (not an exhaustive list):
+- Prefer precise labels for discourse features over labels that pathologize posters or audiences.
+- Soften claims that cast advocacy pages, commenters, or communities as deficient, naive, or failing.
+- When a word is used as a coding category or statistical result (e.g. *significant*, *positive*, *support*), keep the technical sense. Do not moralize the people behind the data.
+
+This rule applies to all writing in this repo.
+
 ## Content and perspective
 - Be practical. Give ideas the space accuracy needs and no more.
 - Surface overlooked views when relevant.
@@ -128,17 +139,6 @@ Guardrails against weak habits. Use judgment, not mechanical compliance.
   - Philippine English / clear undergraduate academic register; no purple prose.
   - Citations only for claims the paper supports; no filler citations.
 - Prefer this cadence over generic “In recent years…” openings.
-
-## Neutral wording (thesis)
-
-Prefer neutral wording over informal, pathologizing, or deficit-framed terms. When a common label carries unwanted connotation in context, replace it with a precise neutral alternative. Soften intensifiers that cast people or groups as deficient. Keep technical senses of ordinary words when they name procedures, outcomes, or results rather than people.
-
-Examples of direction (not an exhaustive list):
-- Prefer precise labels for discourse features over labels that pathologize posters or audiences.
-- Soften claims that cast advocacy pages, commenters, or communities as deficient, naive, or failing.
-- When a word is used as a coding category or statistical result (e.g. *significant*, *positive*, *support*), keep the technical sense. Do not moralize the people behind the data.
-
-This rule applies to all thesis drafting and revision in this repo.
 
 ## Thesis prose priority order (binding)
 

@@ -147,3 +147,9 @@ token" rule overrides "verbatim").
 **User:** revise preference text (neutral wording version).
 
 **Assistant:** Updated preferences.md to the revised wording.
+
+#### Exchange 16 — neutral wording as general rule
+
+**User:** remove thesis label. this is part of the general rule in writing.
+
+**Assistant:** Removed (thesis) label, made scope "all writing," moved section under general Voice/style area.
