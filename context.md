@@ -68,7 +68,7 @@ Memory files are `preferences.md`, `knowledge.md`, `decisions.md`,
 - Mistakes and their fixes go in `lessons.md`. Never archived.
 - Project state goes in `projects.md`.
 - Verbatim record goes in `chat_history/`.
-- This file holds only the current focus and open threads.
+- This file holds only the current focus  Hope as a Distinct Construct subsection added (McCosker & Gerrard 2021, Lindgren & Johansson 2023, Beelen & Karsay 2024). Next: Research Gap / conclusion polish.
 
 Before adding a lesson, fact, or decision, run `./scripts/search.sh <one
 distinctive word>` and update the existing entry if there is one. Run it

@@ -87,3 +87,13 @@ token" rule overrides "verbatim").
 **Assistant:**
 
 > Connected the Struggle opening sentence to the following text (removed the internal line break so it reads as one continuous paragraph). Set justified alignment on the three new paragraphs in Comment Response Patterns so they match the rest of the body text.
+
+#### Exchange 8 — trace 35c3b3ae-6f74-4b3b-a942-f1d918275112
+
+**User:**
+
+> expoynd and revise.
+
+**Assistant:**
+
+> Added new subsection "Hope as a Distinct Construct in Digital Mental Health Discourse" between Positivity/Engagement and Comment Response Patterns. Examined McCosker & Gerrard (2021), Lindgren & Johansson (2023), and Beelen & Karsay (2024) in depth. Matched Georgia 11 pt, double spacing, 0.5" indent, justified. Added three entries to the References list. PDFs already in thesis/references/.
