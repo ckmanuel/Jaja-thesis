@@ -116,3 +116,15 @@ Guardrails against weak habits. Use judgment, not mechanical compliance.
   structure aimed at crawlers.
 - Don't end with "what's next?" or similar prompts. End when the substance is
   done.
+
+## BOTS writing guide (hedge thesis as model)
+- **Source:** `https://github.com/ckmanuel/thesis-memory/tree/main/thesis` (Chryz Kean F. Manuel, hedges in research abstracts; same BAELS program, PSAU).
+- **Use as style model** when drafting or revising Background of the Study sections in this proposal.
+- Observed pattern in that BOTS:
+  - Short, sharp opening line that names a tension (not a definition dump).
+  - Immediate fold-in of specific findings from real papers (author, year, what they actually found).
+  - Clear gap stated in plain terms.
+  - Study purpose paragraph that maps directly onto the research questions.
+  - Philippine English / clear undergraduate academic register; no purple prose.
+  - Citations only for claims the paper supports; no filler citations.
+- Prefer this cadence over generic “In recent years…” openings.
