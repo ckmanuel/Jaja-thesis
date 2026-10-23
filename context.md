@@ -97,16 +97,17 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Proposal v11 is the current working draft in `thesis/Thesis_Proposal_Instagram_MH_v11.docx`. Caption coding: two-stage Identify (H/E as T|F) and Sort (dominant code). Sampling: ~5–6 pages, 5–8 captions each, Sep 2024–Dec 2025 (2025 preferred), comment eligibility + max variation. All drafts in DOCX only.
+BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Current working draft is the author-uploaded `thesis/Thesis_Proposal_Instagram_MH_v11.docx` (2026-10-23). Older drafts v06–v10 and the previous agent v11 are in `thesis/archive/`. Sampling, two-stage caption coding, and comment eligibility criteria as in that file. All drafts in DOCX only.
 
 ## Open threads
-- Review v11 two-stage caption coding procedure.
-- Confirm next step (Method polish, Research Gap, corpus pilot, or other).
+- Continue from author-uploaded v11 as the base draft.
+- Confirm next concrete task (Method polish, Research Gap, corpus pilot, or other).
 - Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-23: Author-uploaded draft set as current `Thesis_Proposal_Instagram_MH_v11.docx`. Prior v06–v10 and agent v11 moved to `thesis/archive/`.
 - 2026-10-23: Created v11. Caption coding revised to two-stage Identify (H|E as T/F) and Sort (dominant code / blended). Framework, IPO, definitions, Process step 3, Appendix A updated.
 - 2026-10-23: Created v10. Year window Sep 2024–Dec 2025 (2025 preferred). Pages ~5–6, captions 5–8 each. Title, Scope, Limitations, Process, Corpus, IPO, and definitions updated.
 - 2026-10-23: Created v09. Comment sampling: eligibility + maximum variation (Supportive Lexicon / Personal Narrative). Page ceiling of three posts. Scope, Limitations, Process, Corpus, IPO, and Definition of Terms updated. Algorithmically-surfaced selection language removed from method.
