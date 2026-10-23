@@ -2,7 +2,7 @@
 
 Working list for **v06 / v07** proposal references. Prefer **Open PDF** when present. Links can move; DOI is the stable identifier.
 
-Legend: **Open PDF** = free full text found · **Publisher** = may need library access · **Landing** = abstract / request page · **Local file** = PDF already in `thesis/reference/`
+Legend: **Open PDF** = free full text found · **Publisher** = may need library access · **Landing** = abstract / request page · **Local file** = PDF already in `thesis/references/`
 
 ---
 
@@ -70,7 +70,7 @@ DOI: https://doi.org/10.3389/fcomm.2022.824119
 ### Yao, M. Z., & Zhong, Z. (2014)
 *(Cited in text but missing full bibliographic details from the proposal References list.)*  
 Likely related to toxic positivity / commodification of recovery language on social media (paired with Naslund et al., 2020 in the Background).  
-**Action needed:** locate full citation, add to proposal References, and place PDF in `thesis/reference/` when available.
+**Action needed:** locate full citation, add to proposal References, and place PDF in `thesis/references/` when available.
 
 ---
 
@@ -80,4 +80,4 @@ Likely related to toxic positivity / commodification of recovery language on soc
   `Chang (2009) - Online Supportive Interactions.pdf`  
   and add a **Local file:** line under the corresponding entry above.
 - Keep this file in sync with any future additions or removals in the proposal.
-- Folder for full-text PDFs: `thesis/reference/`
+- Folder for full-text PDFs: `thesis/references/`
