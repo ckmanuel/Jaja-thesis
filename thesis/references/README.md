@@ -94,6 +94,21 @@ Is “Good vibes only” really good? Investigating perceptions of toxic positiv
 DOI: https://doi.org/10.1177/14614448251396941  
 **Local file:** `Wong Wan & Lew (2025) - Toxic Positivity on Social Media.pdf`
 
+
+### Beelen, E., & Karsay, K. (2024)
+“The future is bright! Is it?”: Investigating effects of hopeful mental health content and endorsement cues on social media. *Social Media + Society, 10*.  
+DOI: https://doi.org/10.1177/20563051241277603  
+**Local file:** `Beelen & Karsay (2024) - Hopeful Mental Health Content on Instagram.pdf`
+
+### Natrio, Y., & Yensasnidar. (2025)
+Constructing the ‘healthy self’ on Instagram: An appraisal and critical discourse analysis of health narratives in social media captions. *Vivid: Journal of Language and Literature, 14*(1).  
+**Local file:** `Natrio & Yensasnidar (2025) - Constructing the Healthy Self on Instagram.pdf`
+
+### Anake, S. A., Chimuanya, L., Nnorom, P. N., & Ogbulogo, C. U. (2024)
+Tracking mental health: A social semiotic analysis of Instagram discourse. *Pakistan Journal of Life and Social Sciences, 22*(2), 8822–8833.  
+DOI: https://doi.org/10.57239/PJLSS-2024-22.2.00666  
+**Local file:** `Anake et al. (2024) - Social Semiotic Analysis of Instagram Mental Health Discourse.pdf`
+
 ## Notes
 
 - When a PDF is uploaded, rename it clearly following the pattern:  
