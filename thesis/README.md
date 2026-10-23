@@ -2,19 +2,18 @@
 
 ## Current working draft
 
-**Thesis_Proposal_Instagram_MH_v08.docx** — full proposal (title through Appendices). Current working version.
+**Thesis_Proposal_Instagram_MH_v09.docx** — full proposal (title through Appendices). Current working version.
 
-Changes from v07:
-- Operational definitions of Hope Construction and Empowerment Language rewritten in Definition of Terms (discursive orientations with core tests).
-- Research Framework: added Table 1 (side-by-side contrast of the two orientations) and derivative-questions decision procedure for caption coding.
-- Function-Driven Coding definition updated to reference the derivative questions.
-- Appendix A Decision Rules updated to point to the derivative-questions procedure; full Decision procedure text added below Table A1.
-- IPO Process Phase 1 wording updated to match the new coding procedure.
-- Markers remain illustrative signals, not an exhaustive inventory.
+Changes from v08:
+- Comment sampling redesigned: eligibility filter + maximum variation on response type (one Supportive Lexicon + one Personal Narrative when both present among eligible top-level comments). Nested replies excluded.
+- Page stratification fixed: maximum three eligible posts per advocacy page; target spread across at least ten pages for a 30-post corpus.
+- Account, post, and comment criteria aligned with the final sampling procedure.
+- Scope, Limitations, Research Process, Corpus, IPO, and Definition of Terms updated to match. No “algorithmically surfaced” selection language remains in the method.
+- Caption coding step aligned with the derivative-questions procedure from v08.
 
 Supporting files:
-- `references/README.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
-- `references/` — folder for full-text PDFs (name as `Author (Year) - Title.pdf`) and the citation list (shown as folder README on GitHub)
+- `references/README.md` — working list of full citations, DOIs, and download links
+- `references/` — folder for full-text PDFs and the citation list
 - `001_ThesisCompanion.pdf` — BAELS Thesis Companion guide
 - `Thesis_Verb_Tense_Matrix.pdf` — tense guidance for proposal → final paper
 
