@@ -1,6 +1,6 @@
 # Thesis references — full citations and download links
 
-Working list for **v06 / v07** proposal references. Prefer **Open PDF** when present. Links can move; DOI is the stable identifier.
+Working list for **v07** proposal references. Prefer **Open PDF** when present. Links can move; DOI is the stable identifier.
 
 Legend: **Open PDF** = free full text found · **Publisher** = may need library access · **Landing** = abstract / request page · **Local file** = PDF already in this folder
 
@@ -16,22 +16,22 @@ DOI: https://doi.org/10.1080/23808985.2008.11679070
 ### Chang, H. J. (2009)
 Online supportive interactions: Using a network approach to examine communication patterns within a psychosis social support group in Taiwan. *Journal of the American Society for Information Science and Technology, 60*(7), 1504–1517.  
 DOI: https://doi.org/10.1002/asi.21070  
-**Publisher:** Wiley
-
----
-
-### Dimova, A. (2024)
-*Mental health advocacy on social media: A multimodal discourse analysis* [Doctoral dissertation, Queen Mary University of London].  
-Queen Mary Research Online.  
-https://qmro.qmul.ac.uk/xmlui/handle/123456789/97828  
-**Landing / Open access thesis:** https://qmro.qmul.ac.uk/xmlui/handle/123456789/97828
+**Local file:** `Chang (2009) - Online Supportive Interactions.pdf`
 
 ---
 
 ### Koinig, I. (2022)
 Picturing mental health on Instagram: Insights from a quantitative study using different content formats. *International Journal of Environmental Research and Public Health, 19*(3), 1608.  
 DOI: https://doi.org/10.3390/ijerph19031608  
-**Open PDF:** https://www.mdpi.com/1660-4601/19/3/1608/pdf
+**Open PDF:** https://www.mdpi.com/1660-4601/19/3/1608/pdf  
+**Local file:** `Koinig (2022) - Picturing Mental Health on Instagram.pdf`
+
+---
+
+### Koteyko, N., & Atanasova, D. (2018)
+Mental health advocacy on Twitter: Positioning in Depression Awareness Week tweets. *Discourse, Context & Media, 25*, 52–59.  
+DOI: https://doi.org/10.1016/j.dcm.2018.04.007  
+**Local file:** `Koteyko & Atanasova (2018) - Mental Health Advocacy on Twitter.pdf`
 
 ---
 
@@ -42,15 +42,16 @@ Positive discourse analysis: Contesting dominant discourses by reframing the iss
 ---
 
 ### Martin, J. R. (2004)
-Positive discourse analysis: Solidarity and change. *Revista Canaria de Estudios Ingleses, 49*, 179–202.  
-**Landing:** often available via university library or author request
+Positive discourse analysis: Solidarity and change. *Revista Canaria de Estudios Ingleses, 49*, 179–200.  
+**Open PDF:** https://riull.ull.es/xmlui/bitstream/handle/915/29390/RECEI%2049_%282004%29_11.pdf  
+**Local file:** `Martin (2004) - Positive Discourse Analysis Solidarity and Change.pdf`
 
 ---
 
-### Naslund, J. A., Aschbrenner, K. A., Marsch, L. A., & Bartels, S. J. (2020)
+### Naslund, J. A., Aschbrenner, K. A., Marsch, L. A., & Bartels, S. J. (2016)
 The future of mental health care: Peer-to-peer support and social media. *Epidemiology and Psychiatric Sciences, 25*(2), 113–122.  
 DOI: https://doi.org/10.1017/S2045796015001067  
-**Open PDF (PMC):** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4834196/
+**Local file:** `Naslund et al. (2016) - The Future of Mental Health Care.pdf`
 
 ---
 
@@ -63,21 +64,24 @@ DOI: https://doi.org/10.1017/S2045796015001067
 ### Wu, J., & Hong, T. (2022)
 The picture of #mentalhealth on Instagram: Congruent vs. incongruent emotions in predicting the sentiment of comments. *Frontiers in Communication, 7*, Article 824119.  
 DOI: https://doi.org/10.3389/fcomm.2022.824119  
-**Open PDF:** https://www.frontiersin.org/articles/10.3389/fcomm.2022.824119/pdf
+**Open PDF:** https://www.frontiersin.org/articles/10.3389/fcomm.2022.824119/pdf  
+**Local file:** `Wu & Hong (2022) - The Picture of Mentalhealth on Instagram.pdf`
 
 ---
 
 ### Yao, M. Z., & Zhong, Z. (2014)
 *(Cited in text but missing full bibliographic details from the proposal References list.)*  
-Likely related to toxic positivity / commodification of recovery language on social media (paired with Naslund et al., 2020 in the Background).  
+Likely related to toxic positivity / commodification of recovery language on social media (paired with Naslund et al. in the Background).  
 **Action needed:** locate full citation, add to proposal References, and place PDF in `thesis/references/` when available.
 
 ---
 
 ## Notes
 
-- When a PDF is uploaded, rename it clearly following the pattern used in the other thesis repo, e.g.  
-  `Chang (2009) - Online Supportive Interactions.pdf`  
+- When a PDF is uploaded, rename it clearly following the pattern:  
+  `Author (Year) - Short Title.pdf`  
   and add a **Local file:** line under the corresponding entry above.
 - Keep this file in sync with any future additions or removals in the proposal.
 - Folder for full-text PDFs: `thesis/references/`
+- **Removed 2026-10-23:** Dimova (2024) — repository link dead (404/403), no DOI, no alternate open copy. Replaced in proposal text by Koteyko & Atanasova (2018).
+- **Year correction:** Naslund et al. is **2016**, not 2020.
