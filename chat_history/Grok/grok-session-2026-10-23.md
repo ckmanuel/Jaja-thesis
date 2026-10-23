@@ -141,3 +141,9 @@ token" rule overrides "verbatim").
 **User:** add neutral academic wording preference (pathologizing/deficit-framed terms).
 
 **Assistant:** Added "## Neutral academic wording (thesis)" section to preferences.md and linked it under Thesis prose priority order item 3.
+
+#### Exchange 15 — revise neutral wording preference
+
+**User:** revise preference text (neutral wording version).
+
+**Assistant:** Updated preferences.md to the revised wording.
