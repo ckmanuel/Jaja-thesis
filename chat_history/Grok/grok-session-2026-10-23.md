@@ -129,3 +129,9 @@ token" rule overrides "verbatim").
 **User:** ok. then fold the necessary revision
 
 **Assistant:** Inserted one short paragraph at the end of Patterns of Positivity and Engagement (before Hope subsection). Grounded in Lindgren & Johansson (2023) on the ~125-character preview. States conventional hook–body–CTA shape as platform affordance, not marketing formula. No new references.
+
+#### Exchange 13 — fold empowerment literature paragraph
+
+**User:** fold it.
+
+**Assistant:** Inserted empowerment paragraph at end of Hope subsection (before Comment Response Patterns). Grounded in Martin and Macgilchrist only. Format matched. Pushed.
