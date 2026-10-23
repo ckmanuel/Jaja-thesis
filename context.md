@@ -97,16 +97,17 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Current working draft is the author-uploaded `thesis/Thesis_Proposal_Instagram_MH_v11.docx` (2026-10-23). Older drafts v06–v10 and the previous agent v11 are in `thesis/archive/`. Sampling, two-stage caption coding, and comment eligibility criteria as in that file. All drafts in DOCX only.
+BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Full thesis (not proposal); research underway. Current draft: `thesis/Thesis_Instagram_MH_v11.docx`. Definition of Terms and References alphabetized; procedure future tense shifted for final-stage wording. Chapters 3–4 still to be drafted.
 
 ## Open threads
-- Continue from author-uploaded v11 as the base draft.
-- Confirm next concrete task (Method polish, Research Gap, corpus pilot, or other).
+- Draft Chapter 3 (Method) and Chapter 4 when ready.
+- Further tense pass against Verb Tense Matrix FINAL DEFENSE column if needed after Ch 3–4.
 - Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-23: Marked document as full thesis (not proposal). Alphabetized Definition of Terms and References; added missing refs (Anake, Bartlett, Lecompte-Van Poucke, Natrio & Yensasnidar, Wong et al.). Shifted procedure “will” to present. Renamed working file to Thesis_Instagram_MH_v11.docx.
 - 2026-10-23: Author-uploaded draft set as current `Thesis_Proposal_Instagram_MH_v11.docx`. Prior v06–v10 and agent v11 moved to `thesis/archive/`.
 - 2026-10-23: Created v11. Caption coding revised to two-stage Identify (H|E as T/F) and Sort (dominant code / blended). Framework, IPO, definitions, Process step 3, Appendix A updated.
 - 2026-10-23: Created v10. Year window Sep 2024–Dec 2025 (2025 preferred). Pages ~5–6, captions 5–8 each. Title, Scope, Limitations, Process, Corpus, IPO, and definitions updated.
