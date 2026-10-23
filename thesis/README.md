@@ -7,9 +7,10 @@
 **Thesis_Proposal_Instagram_MH_v07_draft.md** — working markdown draft of the Statement of the Problem revision only (SOP 2 focused on comment responses). All other sections still follow v06.
 
 Supporting files:
+- `references.md` — working list of full citations, DOIs, and download links (template style from thesis-memory)
+- `references/` — folder for full-text PDFs (name as `Author (Year) - Title.pdf`)
 - `001_ThesisCompanion.pdf` — BAELS Thesis Companion guide
 - `Thesis_Verb_Tense_Matrix.pdf` — tense guidance for proposal → final paper
-- `reference/` — source list and future full-text PDFs
 
 ## Versioning policy
 

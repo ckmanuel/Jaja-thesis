@@ -14,6 +14,7 @@ Update status in place. Move finished projects to the Archived section.
   - `thesis/Thesis_Proposal_Instagram_MH_v06.docx` (full proposal)
   - `thesis/Thesis_Proposal_Instagram_MH_v07_draft.md` (SOP revision draft)
   - `thesis/README.md` (versioning policy + current draft pointers)
+  - `thesis/references.md` (rich citation list with DOI / Open PDF links)
   - `thesis/001_ThesisCompanion.pdf` (BAELS Thesis Companion guide)
   - `thesis/Thesis_Verb_Tense_Matrix.pdf` (tense guidance for proposal → final)
 - **Notes:** Corpus max 30 English captions (≥30 words, ≥100 likes, ≥20 comments) from public MH advocacy pages, 2023–2025. Two algorithmically surfaced comments per post. PDA coding for HOPE vs EMPOWERMENT; adapted Chang for SUPPORTIVE LEXICON vs PERSONAL NARRATIVE. Versioning: small edits overwrite current draft; new version number only for major revisions or on request. Open: confirm next concrete task (polish proposal, corpus start, coding pilot, etc.).
