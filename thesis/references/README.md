@@ -78,6 +78,22 @@ DOI: https://doi.org/10.1016/j.chb.2013.08.007
 
 ---
 
+
+### Bartlett, T. (2012)
+*Hybrid voices and collaborative change: Contextualising Positive Discourse Analysis*. Routledge.  
+DOI: https://doi.org/10.4324/9780203109373  
+**Local file:** `Bartlett (2012) - Hybrid Voices and Collaborative Change.pdf`
+
+### Lecompte-Van Poucke, M. (2022)
+‘You got this!’: A critical discourse analysis of toxic positivity as a discursive construct on Facebook. *Applied Corpus Linguistics, 2*(1), Article 100015.  
+DOI: https://doi.org/10.1016/j.acorp.2022.100015  
+**Local file:** `Lecompte-Van Poucke (2022) - Toxic Positivity as Discursive Construct on Facebook.pdf`
+
+### Wong, S. S., Wan, A. L. H., & Lew, Z. (2025)
+Is “Good vibes only” really good? Investigating perceptions of toxic positivity on social media. *New Media & Society*.  
+DOI: https://doi.org/10.1177/14614448251396941  
+**Local file:** `Wong Wan & Lew (2025) - Toxic Positivity on Social Media.pdf`
+
 ## Notes
 
 - When a PDF is uploaded, rename it clearly following the pattern:  
