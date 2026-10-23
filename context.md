@@ -36,6 +36,27 @@ The pre-commit hook blocks commits that change one of the six memory files
 workflows aren't checked. Bypass with `--no-verify` only for commits
 unrelated to the conversation.
 
+
+## CRITICAL: never leave work only on local disk
+
+Local files that are not **committed and pushed** to `origin/main` do not
+exist for the next session or for the user checking GitHub.
+
+After any meaningful work (text edits, force-added binaries under `thesis/`,
+reference PDFs, transcript updates):
+
+1. `git add` (use `git add -f` for `*.pdf` / `*.docx` — they are gitignored).
+2. Commit with a clear message.
+3. **Push immediately** with the one-shot credential helper:
+   ```sh
+   git -c credential.helper='!f() { echo username=x-access-token; echo "password=$GH_PAT"; }; f' push origin main
+   ```
+4. Confirm with `git status` that the branch is not ahead of `origin/main`.
+
+"Saved on disk in the sandbox" is **not** done. Only a successful push counts.
+This overrides any habit of staging without pushing. If the push fails (auth,
+network), report the error to the user and do not claim the work is in the repo.
+
 ## Where things go
 
 Memory files are `preferences.md`, `knowledge.md`, `decisions.md`,

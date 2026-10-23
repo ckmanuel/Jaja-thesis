@@ -16,3 +16,8 @@ Entry template:
 - **Fix:** <what worked>
 - **Doesn't apply when:** <the case where following this would be a mistake>
 -->
+
+## 2026-10-23: Force-add binaries and push in the same turn
+- **Mistake:** Reference PDFs and DOCX edits lived only in the sandbox; user could not see them on GitHub because `*.pdf` is gitignored and nothing was force-added/pushed.
+- **Fix:** Always `git add -f` for thesis binaries, commit, then push with the one-shot credential helper before telling the user the work is in the repo.
+- **Check:** `git status` must show "up to date with origin/main" (not "ahead by N commits").

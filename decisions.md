@@ -172,3 +172,8 @@ Entry template:
 - **Why:** One repo is one mental model, easier to scan, and a fresh clone
   gets everything. The token already has access to it, so no scope grows.
 - **Rejected:** A separate workspace repo.
+
+## 2026-10-23: Meaningful work must be pushed, not only local
+- **Decision:** After any meaningful change (proposal DOCX, reference PDFs under `thesis/references/`, memory files, transcripts), the agent must `git add` (force-add binaries), commit, and **push to origin/main** in the same turn. Local-only files do not count as delivered.
+- **Why:** Session sandboxes are ephemeral. The previous agent left reference PDFs and DOCX edits on disk only; the user correctly reported they were "not committed in repo." Gitignore of `*.pdf`/`*.docx` makes this easy to miss without `git add -f` + push.
+- **Rejected:** "I'll commit at session end" or "files are in the working tree so they're fine."
