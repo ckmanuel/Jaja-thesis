@@ -34,3 +34,9 @@
 **User:** Corpus counts; comment counts; corpus quotes; blended example; IPO; Chang informational; reduce repetition; soften creator rec; date window; corpus definition.
 
 **Assistant:** Added 20/8/2 and 43/17 counts to prose and Tables 2 and 5; inserted anonymized corpus extracts (P1_C2, P1_C4, P2_C2, P2_C5, narratives); expanded BOTH adjudication; dropped IPO/Figure 1 claim; noted rare informational comments; standardized date window; fixed Corpus definition; softened creator recommendation.
+
+#### Exchange 8 — direct corpus quotations in RAD
+
+**User:** similar to hedge thesis. provide concrete examples directly from the excerpt corpus.
+
+**Assistant:** Rewrote empowerment, hope, BOTH, supportive, and narrative RAD blocks with direct quotes and codes from Corpus_by_page (P1_C2, P1_C4, P2_C4–C7, P6_C7, comment codes X1/X2).
