@@ -97,7 +97,7 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis. Draft: `thesis/Thesis_Instagram_MH_v15.docx`. Full formatting pass applied (Georgia, double spacing, major/minor/body/table rules, bold spills cleaned). Title page left as is.
+Draft v15: RAD rewritten (linguistic, no RQ announcements); method steps cleaned; CONCLUSIONS AND RECOMMENDATIONS added per companion outline.
 
 
 ## Open threads
