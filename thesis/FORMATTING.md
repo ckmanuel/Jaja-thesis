@@ -31,8 +31,10 @@ Everything else is regular weight.
 Format:
 
 - Georgia 14 bold  
+- **Centered** (BAELS Thesis Companion: section headers centered, ALL CAPS, size 14)  
 - 3 spaces before, 3 spaces after (one space = 12 pt → 36 pt before/after)  
 - No first-line indent  
+
 
 ## Minor headers
 

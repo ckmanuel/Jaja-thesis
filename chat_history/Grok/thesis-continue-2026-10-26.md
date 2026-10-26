@@ -22,3 +22,9 @@
 **User:** Fix tables; labels separated from table body.
 
 **Assistant:** Tightened caption/title spacing (0 after caption, 0 around title). Fixed Table 4 order (caption → title → table → analysis). Removed empty spacer paras and duplicate BOTH paragraph.
+
+#### Exchange 6 — full format pass; majors centered
+
+**User:** Fix full thesis formats; major headers were left-aligned (Ch 3/4); full pass.
+
+**Assistant:** Full pass. Major headers CENTERED Georgia 14 bold per BAELS companion. Minors 12 left; body 11 justified; tables open-sided; title page untouched. FORMATTING.md updated.
