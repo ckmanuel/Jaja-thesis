@@ -2,13 +2,13 @@
 
 ## Current working draft
 
-**Thesis_Instagram_MH_v14.docx** — full thesis draft. Chapter 4 (RESULTS, ANALYSIS, AND DISCUSSION) expanded further and reformatted to FORMATTING.md (Georgia, major/theme/body hierarchy, double spacing, first-line indent). Three parts answer RQ1–RQ3 with added theoretical paragraphs.
+**Thesis_Instagram_MH_v15.docx** — full thesis draft. Chapter 4 revised for linguistic focus (light counts only), with five scannable tables (Tables 2–6). Formatting follows FORMATTING.md.
 
 This is **not** a proposal. Research is underway.
 
 ## Archive
 
-Prior versions are in `thesis/archive/` (v06–v13).
+Prior versions are in `thesis/archive/` (v06–v14).
 
 ## Versioning policy
 
