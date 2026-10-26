@@ -97,20 +97,20 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Full thesis. Current draft: `thesis/Thesis_Instagram_MH_v12.docx`. Corpus of 30 captions coded. Chapter 4 Findings folded in. Pending: comment swaps (P4), P3_C1 borderline check, Ch 3 tense pass to FINAL DEFENSE column.
+BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Current draft: `thesis/Thesis_Instagram_MH_v13.docx`. Chapter 4 is now RESULTS, ANALYSIS, AND DISCUSSION in three parts answering RQ1–RQ3, theorized with Martin, Chang, Macgilchrist, Bartlett, Koinig, Wu & Hong, Beelen & Karsay, Lecompte-Van Poucke. Pending: P4 comment swaps, P3_C1 confirm, fuller Ch 3 tense pass, sample excerpts if desired.
 
 ## Open threads
 - Swap or confirm pending P4 comments (and any “?” slots) before finalizing comment tallies.
 - Confirm whether P3_C1 (provider myth) stays in corpus.
-- Chapter 3 tense pass against Verb Tense Matrix FINAL DEFENSE column.
-- Further Findings polish / sample excerpts if needed.
+- Complete Chapter 3 tense pass against Verb Tense Matrix FINAL DEFENSE column.
+- Optional: add short illustrative excerpts under each Part in Ch 4.
 - Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-10-26: Folded coded corpus into v12 — realized Ch 3 corpus paragraph, added Chapter 4 Findings (EMPOWERMENT 67%, HOPE 27%, BOTH 7%; supportive comments 71%).
+- 2026-10-26: v13 — expanded Ch 4 as RESULTS, ANALYSIS, AND DISCUSSION (Parts I–III answering all RQs) with theory citations; Ch 3 methodology shifted toward completed-research tense.
+- 2026-10-26: Folded coded corpus into v12 — realized Ch 3 corpus paragraph, added first Findings pass.
 - 2026-10-26: Corpus screening log and anonymized caption/comment file received and coded against Appendix A/B.
 - 2026-10-23: Marked document as full thesis (not proposal). Alphabetized Definition of Terms and References.
 - 2026-10-23: Dimova (2024) removed (dead link); replaced by Koteyko & Atanasova (2018).
-- 2026-10-23: BOTS opener locked: “Struggle is often easy to name, but hope is harder to construct in words without sounding false.”

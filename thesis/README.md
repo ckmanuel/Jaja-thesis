@@ -2,13 +2,13 @@
 
 ## Current working draft
 
-**Thesis_Instagram_MH_v12.docx** — full thesis draft (front sections through Findings, References, Appendices). Chapter 3 corpus realized from screening log. Chapter 4 Findings added from coded corpus (30 captions).
+**Thesis_Instagram_MH_v13.docx** — full thesis draft. Chapter 3 methodology tense-adjusted for completed screening and coding. Chapter 4 expanded as RESULTS, ANALYSIS, AND DISCUSSION in three parts answering all RQs, with PDA/Chang theorization and supporting citations.
 
-This is **not** a proposal. Proposal stage is complete. Research is underway.
+This is **not** a proposal. Research is underway.
 
 ## Archive
 
-Prior versions are in `thesis/archive/` (v06–v11 and earlier builds).
+Prior versions are in `thesis/archive/` (v06–v12).
 
 ## Versioning policy
 
