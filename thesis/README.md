@@ -18,6 +18,9 @@ Prior versions are in `thesis/archive/` (v06–v14).
 
 ## Supporting files
 
+- `corpus/Corpus_by_page.docx` — anonymized caption and comment texts (P1–P6)
+- `corpus/Corpus_screening_log.xlsx` — selection log, page balance, crosswalk
+
 - `references/README.md` — citations, DOIs, download links
 - `references/` — full-text PDFs
 - `001_ThesisCompanion.pdf` — BAELS Thesis Companion
