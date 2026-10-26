@@ -40,3 +40,9 @@
 **User:** similar to hedge thesis. provide concrete examples directly from the excerpt corpus.
 
 **Assistant:** Rewrote empowerment, hope, BOTH, supportive, and narrative RAD blocks with direct quotes and codes from Corpus_by_page (P1_C2, P1_C4, P2_C4–C7, P6_C7, comment codes X1/X2).
+
+#### Exchange 9 — sample excerpts in tables
+
+**User:** put sample excerpt to tables for easy scannability.
+
+**Assistant:** Tables 3–6 now carry sample corpus excerpts with codes (P1_C2, P2_C7, P1_C4, P2_C4–C6, comment X codes) in the middle column for scannability.
