@@ -100,15 +100,16 @@ Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes 
 BAELS thesis by Jasper D. Lacsina. Current draft: `thesis/Thesis_Instagram_MH_v15.docx`. Ch 4 RESULTS/ANALYSIS/DISCUSSION expanded (Parts I–III) and reformatted to FORMATTING.md. Pending: P4 comment swaps, P3_C1 confirm, full Ch 3 tense pass, optional excerpts.
 
 ## Open threads
-- Swap or confirm pending P4 comments (and any “?” slots) before finalizing comment tallies.
-- Confirm whether P3_C1 (provider myth) stays in corpus.
+- Corpus and comments locked as final (no swaps; thin comment pools kept as closest eligible).
+- Confirm whether P3_C1 (provider myth) stays, or treat as already retained.
 - Complete Chapter 3 tense pass against Verb Tense Matrix FINAL DEFENSE column.
-- Optional: add short illustrative excerpts under each Part in Ch 4.
+- Optional: short illustrative excerpts under each Part in Ch 4.
 - Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
+- 2026-10-26: Corpus and comments locked final (no swaps). Draft wording updated to drop pending-swap language.
 - 2026-10-26: v15 — Ch 4 further expanded (theory paragraphs, toxic positivity, Bartlett hybridity) and formatting fixed to FORMATTING.md (Georgia, major/theme/body).
 - 2026-10-26: v13 — Ch 4 as RESULTS/ANALYSIS/DISCUSSION (Parts I–III answering all RQs).
 - 2026-10-26: v12 — realized corpus paragraph; first Findings pass.
