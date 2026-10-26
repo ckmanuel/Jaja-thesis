@@ -46,3 +46,9 @@
 **User:** put sample excerpt to tables for easy scannability.
 
 **Assistant:** Tables 3–6 now carry sample corpus excerpts with codes (P1_C2, P2_C7, P1_C4, P2_C4–C6, comment X codes) in the middle column for scannability.
+
+#### Exchange — Appendix C corpus
+
+**User:** put the corpus in appendix c for transparency.
+
+**Assistant:** Added APPENDIX C: CORPUS OF CAPTIONS AND COMMENTS (30 captions + 60 comments, anonymized page labels). Cross-ref from Research Participants/Corpus section.
