@@ -2,13 +2,13 @@
 
 ## Current working draft
 
-**Thesis_Instagram_MH_v11.docx** — full thesis draft (Chapters 1–2 / front sections through Appendices). Research is underway; Chapters 3–4 to be drafted later.
+**Thesis_Instagram_MH_v12.docx** — full thesis draft (front sections through Findings, References, Appendices). Chapter 3 corpus realized from screening log. Chapter 4 Findings added from coded corpus (30 captions).
 
-This is **not** a proposal. Proposal stage is complete.
+This is **not** a proposal. Proposal stage is complete. Research is underway.
 
 ## Archive
 
-Prior proposal/draft versions are in `thesis/archive/` (v06–v10 and earlier agent builds).
+Prior versions are in `thesis/archive/` (v06–v11 and earlier builds).
 
 ## Versioning policy
 
@@ -22,6 +22,7 @@ Prior proposal/draft versions are in `thesis/archive/` (v06–v10 and earlier ag
 - `references/` — full-text PDFs
 - `001_ThesisCompanion.pdf` — BAELS Thesis Companion
 - `Thesis_Verb_Tense_Matrix.pdf` — tense guidance (use FINAL DEFENSE column)
+- `FORMATTING.md` — formatting rules
 
 ## Notes
 

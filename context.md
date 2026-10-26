@@ -97,24 +97,20 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Full thesis (not proposal); research underway. Current draft: `thesis/Thesis_Instagram_MH_v11.docx`. Definition of Terms and References alphabetized; procedure future tense shifted for final-stage wording. Chapters 3–4 still to be drafted.
+BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Full thesis. Current draft: `thesis/Thesis_Instagram_MH_v12.docx`. Corpus of 30 captions coded. Chapter 4 Findings folded in. Pending: comment swaps (P4), P3_C1 borderline check, Ch 3 tense pass to FINAL DEFENSE column.
 
 ## Open threads
-- Draft Chapter 3 (Method) and Chapter 4 when ready.
-- Further tense pass against Verb Tense Matrix FINAL DEFENSE column if needed after Ch 3–4.
+- Swap or confirm pending P4 comments (and any “?” slots) before finalizing comment tallies.
+- Confirm whether P3_C1 (provider myth) stays in corpus.
+- Chapter 3 tense pass against Verb Tense Matrix FINAL DEFENSE column.
+- Further Findings polish / sample excerpts if needed.
 - Ensure all thesis files stay under `thesis/` and are force-added when binary.
 
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-10-23: Marked document as full thesis (not proposal). Alphabetized Definition of Terms and References; added missing refs (Anake, Bartlett, Lecompte-Van Poucke, Natrio & Yensasnidar, Wong et al.). Shifted procedure “will” to present. Renamed working file to Thesis_Instagram_MH_v11.docx.
-- 2026-10-23: Author-uploaded draft set as current `Thesis_Proposal_Instagram_MH_v11.docx`. Prior v06–v10 and agent v11 moved to `thesis/archive/`.
-- 2026-10-23: Created v11. Caption coding revised to two-stage Identify (H|E as T/F) and Sort (dominant code / blended). Framework, IPO, definitions, Process step 3, Appendix A updated.
-- 2026-10-23: Created v10. Year window Sep 2024–Dec 2025 (2025 preferred). Pages ~5–6, captions 5–8 each. Title, Scope, Limitations, Process, Corpus, IPO, and definitions updated.
-- 2026-10-23: Created v09. Comment sampling: eligibility + maximum variation (Supportive Lexicon / Personal Narrative). Page ceiling of three posts. Scope, Limitations, Process, Corpus, IPO, and Definition of Terms updated. Algorithmically-surfaced selection language removed from method.
-- 2026-10-23: Created v08. Operational definitions of Hope and Empowerment rewritten. Table 1 contrast added in Research Framework. Derivative-questions decision procedure adopted for caption coding. Appendix A and Function-Driven Coding definition updated.
-- 2026-10-23: Further expanded “Comment Response Patterns” so each study (Chang 2009, Kim et al. 2023, Myrick et al. 2015, Wang 2025, Naslund et al. 2016) is examined for method, finding, and implication, following the hedge-thesis BOTS cadence from thesis-memory.
-- 2026-10-23: Uploaded and force-added four new reference PDFs (Kim, Myrick, Yip, Wang) plus updated references README.
-- 2026-10-23: Renamed citation list to `thesis/references/README.md` so it displays when viewing the folder on GitHub.
-- 2026-10-23: Restored v07 content as DOCX; SOP 2 revised; policy confirmed — all future drafts DOCX only.
-- 2026-10-23: Removed markdown draft; all proposal drafts stay in DOCX format only.
+- 2026-10-26: Folded coded corpus into v12 — realized Ch 3 corpus paragraph, added Chapter 4 Findings (EMPOWERMENT 67%, HOPE 27%, BOTH 7%; supportive comments 71%).
+- 2026-10-26: Corpus screening log and anonymized caption/comment file received and coded against Appendix A/B.
+- 2026-10-23: Marked document as full thesis (not proposal). Alphabetized Definition of Terms and References.
+- 2026-10-23: Dimova (2024) removed (dead link); replaced by Koteyko & Atanasova (2018).
+- 2026-10-23: BOTS opener locked: “Struggle is often easy to name, but hope is harder to construct in words without sounding false.”
