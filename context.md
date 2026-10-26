@@ -97,7 +97,7 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical and Grammatical Strategies in Instagram Mental Health Advocacy Captions (2024–2025)”. Current draft: `thesis/Thesis_Instagram_MH_v13.docx`. Chapter 4 is now RESULTS, ANALYSIS, AND DISCUSSION in three parts answering RQ1–RQ3, theorized with Martin, Chang, Macgilchrist, Bartlett, Koinig, Wu & Hong, Beelen & Karsay, Lecompte-Van Poucke. Pending: P4 comment swaps, P3_C1 confirm, fuller Ch 3 tense pass, sample excerpts if desired.
+BAELS thesis by Jasper D. Lacsina. Current draft: `thesis/Thesis_Instagram_MH_v14.docx`. Ch 4 RESULTS/ANALYSIS/DISCUSSION expanded (Parts I–III) and reformatted to FORMATTING.md. Pending: P4 comment swaps, P3_C1 confirm, full Ch 3 tense pass, optional excerpts.
 
 ## Open threads
 - Swap or confirm pending P4 comments (and any “?” slots) before finalizing comment tallies.
@@ -109,8 +109,8 @@ BAELS thesis by Jasper D. Lacsina: “Constructing Hope and Empowerment: Lexical
 ## Recently completed
 _Capped at 5 entries. Older items live in `decisions.md` and `chat_history/`._
 
-- 2026-10-26: v13 — expanded Ch 4 as RESULTS, ANALYSIS, AND DISCUSSION (Parts I–III answering all RQs) with theory citations; Ch 3 methodology shifted toward completed-research tense.
-- 2026-10-26: Folded coded corpus into v12 — realized Ch 3 corpus paragraph, added first Findings pass.
-- 2026-10-26: Corpus screening log and anonymized caption/comment file received and coded against Appendix A/B.
-- 2026-10-23: Marked document as full thesis (not proposal). Alphabetized Definition of Terms and References.
-- 2026-10-23: Dimova (2024) removed (dead link); replaced by Koteyko & Atanasova (2018).
+- 2026-10-26: v14 — Ch 4 further expanded (theory paragraphs, toxic positivity, Bartlett hybridity) and formatting fixed to FORMATTING.md (Georgia, major/theme/body).
+- 2026-10-26: v13 — Ch 4 as RESULTS/ANALYSIS/DISCUSSION (Parts I–III answering all RQs).
+- 2026-10-26: v12 — realized corpus paragraph; first Findings pass.
+- 2026-10-26: Corpus coded against Appendix A/B (EMPOWERMENT 67%, HOPE 27%, BOTH 7%; supportive 71%).
+- 2026-10-23: Full thesis (not proposal); Dimova removed; BOTS opener locked.

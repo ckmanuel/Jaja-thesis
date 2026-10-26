@@ -9,9 +9,9 @@ Update status in place. Move finished projects to the Archived section.
 - **Goal:** Complete undergraduate thesis on lexical and grammatical strategies that construct hope and empowerment in Instagram mental health advocacy captions (2024–2025), using Positive Discourse Analysis and an adapted Chang (2009) support typology.
 - **Author:** Lacsina, Jasper D.
 - **Program:** Bachelor of Arts in English Language Studies, Pampanga State Agricultural University
-- **Current stage:** Full thesis (v13) — Ch 4 RESULTS/ANALYSIS/DISCUSSION expanded thematically (Parts I–III answering all RQs); Ch 3 tense pass started; pending comment swaps
+- **Current stage:** Full thesis (v14) — Ch 4 expanded + FORMATTING.md applied; Ch 3 partial tense pass; pending comment swaps
 - **Key files:**
-  - `thesis/Thesis_Instagram_MH_v13.docx` (current full thesis)
+  - `thesis/Thesis_Instagram_MH_v14.docx` (current full thesis)
   - `thesis/archive/` (v06–v10 and prior agent v11)
   - `thesis/README.md` (versioning policy + current draft pointers)
   - `thesis/references/README.md` (rich citation list with DOI / Open PDF links)

@@ -2,13 +2,13 @@
 
 ## Current working draft
 
-**Thesis_Instagram_MH_v13.docx** — full thesis draft. Chapter 3 methodology tense-adjusted for completed screening and coding. Chapter 4 expanded as RESULTS, ANALYSIS, AND DISCUSSION in three parts answering all RQs, with PDA/Chang theorization and supporting citations.
+**Thesis_Instagram_MH_v14.docx** — full thesis draft. Chapter 4 (RESULTS, ANALYSIS, AND DISCUSSION) expanded further and reformatted to FORMATTING.md (Georgia, major/theme/body hierarchy, double spacing, first-line indent). Three parts answer RQ1–RQ3 with added theoretical paragraphs.
 
 This is **not** a proposal. Research is underway.
 
 ## Archive
 
-Prior versions are in `thesis/archive/` (v06–v12).
+Prior versions are in `thesis/archive/` (v06–v13).
 
 ## Versioning policy
 
