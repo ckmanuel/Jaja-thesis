@@ -16,3 +16,9 @@
 **User:** Deeper analysis each RAD section; recommendations follow chapter-4 intro format from thesis-memory / companion.
 
 **Assistant:** Expanded empowerment, hope, blended, comment, and joint-analysis paragraphs with fuller linguistic commentary. Rewrote CONCLUSIONS AND RECOMMENDATIONS: chapter intro summary, Conclusions, flowing Recommendations (Velasquez pattern).
+
+#### Exchange 5 — table labels attached to table bodies
+
+**User:** Fix tables; labels separated from table body.
+
+**Assistant:** Tightened caption/title spacing (0 after caption, 0 around title). Fixed Table 4 order (caption → title → table → analysis). Removed empty spacer paras and duplicate BOTH paragraph.
