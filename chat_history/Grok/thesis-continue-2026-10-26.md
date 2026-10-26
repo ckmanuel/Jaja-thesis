@@ -28,3 +28,9 @@
 **User:** Fix full thesis formats; major headers were left-aligned (Ch 3/4); full pass.
 
 **Assistant:** Full pass. Major headers CENTERED Georgia 14 bold per BAELS companion. Minors 12 left; body 11 justified; tables open-sided; title page untouched. FORMATTING.md updated.
+
+#### Exchange 7 — panel feedback: counts, extracts, IPO, Chang, proof
+
+**User:** Corpus counts; comment counts; corpus quotes; blended example; IPO; Chang informational; reduce repetition; soften creator rec; date window; corpus definition.
+
+**Assistant:** Added 20/8/2 and 43/17 counts to prose and Tables 2 and 5; inserted anonymized corpus extracts (P1_C2, P1_C4, P2_C2, P2_C5, narratives); expanded BOTH adjudication; dropped IPO/Figure 1 claim; noted rare informational comments; standardized date window; fixed Corpus definition; softened creator recommendation.
