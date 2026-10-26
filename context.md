@@ -97,7 +97,7 @@ copies already made.
 Binding for all thesis drafts: **(1) Verb Tense Matrix** → **(2) no em-dashes or semicolons** → **(3) user preferences**. Full text in preferences.md and decisions.md (2026-10-23).
 
 ## Current focus
-Draft v15: RAD rewritten (linguistic, no RQ announcements); method steps cleaned; CONCLUSIONS AND RECOMMENDATIONS added per companion outline.
+Draft v15: RAD deepened (linguistic analysis per subsection); CONCLUSIONS AND RECOMMENDATIONS rewritten to companion/Velasquez format (chapter intro → Conclusions → Recommendations).
 
 
 ## Open threads
